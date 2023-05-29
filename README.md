@@ -1,6 +1,9 @@
 # Question of choice
 Project work for the general physics exam at MIPT in the first semester.
 
+## Acknowledgement
+I would like to express my special gratitude to Svetlichny Alexander Olegovich for the instructions and advice that I received in the course of doing this work. I really appreciate the responsiveness of this person and the desire to help me understand the topic.
+
 ## About my work
 I investigated the process of collision of a rubber ball with a solid horizontal surface in a gravitational field. The result was a model that approximates the deformation of the body during contact.
 
