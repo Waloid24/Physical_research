@@ -2,10 +2,10 @@
 Project work for the general physics exam at MIPT in the first semester.
 
 ## Acknowledgement
-I would like to express my special gratitude to [Svetlichny Alexander Olegovich](https://vk.com/alexandr_svetlichnyy) for the instructions and advice that I received in the course of doing this work. I really appreciate the responsiveness of this person and the desire to help me understand the topic.
+I would like to express my special gratitude to [Svetlichny Alexander Olegovich](https://vk.com/alexandr_svetlichnyy) for the instructions and advice that I received in the course of doing this work. I really appreciate the responsiveness of this person and the desire to help me understand the topic. 
 
 ## About my work
-I investigated the process of collision of a rubber ball with a solid horizontal surface in a gravitational field. The result was a model that approximates the deformation of the body during contact (**presentation attached above**)
+I investigated the process of collision of a rubber ball with a solid horizontal surface in a gravitational field. The result was a model that approximates the deformation of the body during contact (**presentation attached above**). My work was one of the best among first-year students, you can verify the authenticity of the result [here](https://mipt.ru/upload/medialibrary/e90/vpv-1kurs.pdf).
 
 ## Some details of the process
 Most of the necessary information can be found in my presentation and in the sources I used. Here I want to talk about the fun points and useful skills that I learned while doing this work. 
